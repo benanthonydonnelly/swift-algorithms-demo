@@ -53,7 +53,7 @@
 		01D30D8928AE6C5B00B47BFE /* AlgorithmsDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlgorithmsDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01D30D8D28AE6C5B00B47BFE /* AlgorithmsDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsDemoUITests.swift; sourceTree = "<group>"; };
 		01D30D8F28AE6C5B00B47BFE /* AlgorithmsDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmsDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		01D30D9C28AE6CBC00B47BFE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = AlgorithmsDemo/README.md; sourceTree = SOURCE_ROOT; };
+		01D30D9C28AE6CBC00B47BFE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		01D30D9E28AE730000B47BFE /* Trie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trie.swift; sourceTree = "<group>"; };
 		01D30DA028AE730F00B47BFE /* TrieNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrieNode.swift; sourceTree = "<group>"; };
 		01D30DA228AE798100B47BFE /* boy_names.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = boy_names.json; sourceTree = "<group>"; };
@@ -87,6 +87,7 @@
 		01D30D6028AE6C5700B47BFE = {
 			isa = PBXGroup;
 			children = (
+				01D30D9C28AE6CBC00B47BFE /* README.md */,
 				01D30D6B28AE6C5800B47BFE /* AlgorithmsDemo */,
 				01D30D8228AE6C5B00B47BFE /* AlgorithmsDemoTests */,
 				01D30D8C28AE6C5B00B47BFE /* AlgorithmsDemoUITests */,
@@ -107,7 +108,6 @@
 		01D30D6B28AE6C5800B47BFE /* AlgorithmsDemo */ = {
 			isa = PBXGroup;
 			children = (
-				01D30D9C28AE6CBC00B47BFE /* README.md */,
 				01D30DA228AE798100B47BFE /* boy_names.json */,
 				01D30D6C28AE6C5800B47BFE /* AppDelegate.swift */,
 				01D30D6E28AE6C5800B47BFE /* SceneDelegate.swift */,
