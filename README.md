@@ -3,6 +3,8 @@
 
 This app is designed to demonstrate various algorithms and data structures
 
+This version has a table view implementation using tries as the data structure 
+
 ## Binary Trees
 A tree where each node has at most two children, left and right.
 The basis for many tree structures and algorithms.
